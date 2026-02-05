@@ -44,6 +44,8 @@ The goal is to show a clear understanding of **what happens before automation to
 - Configured region and server size
 - Generated and attached SSH keys for secure access
 
+<img width="1876" height="902" alt="image" src="https://github.com/user-attachments/assets/746adb5f-a157-494f-a005-ddc2e223153f" />
+
 
 
 ---
@@ -53,10 +55,12 @@ The goal is to show a clear understanding of **what happens before automation to
 - Logged into the server using the root account
 - Created a new non-root user for application deployment
 - Assigned sudo privileges to the new user
-- Disabled direct root SSH login
-- Verified secure access using the new user
 
-📸 *Screenshot: Linux user creation and sudo configuration*
+<img width="903" height="507" alt="image" src="https://github.com/user-attachments/assets/c0e20a15-ad1c-4026-a753-f3cef97ad9f7" />
+
+<img width="791" height="30" alt="image" src="https://github.com/user-attachments/assets/ec5ae151-c6f4-4ef6-a6d1-3ad4d2a9df88" />
+
+
 
 ---
 
