@@ -72,16 +72,26 @@ The goal is to show a clear understanding of **what happens before automation to
 - Executed the Java application on the server
 - Verified application was running successfully
 
-📸 *Screenshot: Gradle build output and running application*
+`apt install default-jre` to install java
+<img width="991" height="97" alt="image" src="https://github.com/user-attachments/assets/71a4613c-9a5a-4211-b1de-8336274df612" />
 
----
+I used th secure copy to copy a light weight application from my local device to the server using the command below
 
-## 🔐 Security Considerations
+`scp build/libs/java-react-example.jar nonso@167.99.89.145:/root
+<img width="867" height="43" alt="image" src="https://github.com/user-attachments/assets/6f493653-ba27-46c0-9139-a7076c85c24a" />
 
-- Root SSH login disabled
-- Least-privilege user model applied
-- SSH key-based authentication used
-- Separation of system administration and application execution
+Ran application on the server
+<img width="1476" height="702" alt="image" src="https://github.com/user-attachments/assets/bfd3bba0-3232-44b5-a275-8cc0a9aa3c38" />
+
+
+Application is running on port 7071, so to access this application from the web, we would need to allow this port on the firewall
+
+<img width="1491" height="108" alt="image" src="https://github.com/user-attachments/assets/649a95c8-fac8-4601-b17d-19ec8961c804" />
+
+Application is now running on the web
+
+<img width="827" height="967" alt="image" src="https://github.com/user-attachments/assets/3eb04758-f0a2-4cac-868e-a611c514351c" />
+
 
 ---
 
