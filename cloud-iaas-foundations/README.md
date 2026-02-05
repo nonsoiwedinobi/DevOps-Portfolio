@@ -1,116 +1,111 @@
-# Cloud & Infrastructure as a Service (IaaS) Foundations
+# Cloud & IaaS Foundations – DigitalOcean Server Setup & Application Deployment
 
-This directory contains hands-on projects focused on **cloud infrastructure fundamentals** and **Infrastructure as a Service (IaaS)** concepts.
+This project demonstrates foundational **Infrastructure as a Service (IaaS)** concepts by provisioning a cloud server on DigitalOcean, securing it using Linux best practices, and deploying a Java Gradle application.
 
-The projects here form the foundation of my DevOps skill set and demonstrate how cloud servers, networking, security, and core services are provisioned, configured, and managed before higher-level automation and orchestration are introduced.
-
----
-
-## 🎯 Purpose of This Section
-
-The goal of these projects is to demonstrate:
-
-- How to provision and manage cloud servers
-- Secure Linux server configuration following best practices
-- Deploying applications on raw infrastructure
-- Managing artifacts and repositories
-- Interacting with cloud platforms programmatically
-
-These projects intentionally start **without heavy automation**, to show a clear understanding of what tools like Terraform, Ansible, and Kubernetes later abstract away.
+The goal is to show a clear understanding of **what happens before automation tools** (Terraform, Ansible, Kubernetes) are introduced.
 
 ---
 
-## 🧱 Projects Included
+## 🎯 Project Objectives
 
-### 1️⃣ DigitalOcean Server Setup & Application Deployment
-**Focus:** Core IaaS concepts and Linux server management
-
-**What’s covered:**
-- Provisioning a cloud server (Droplet)
-- Creating and securing Linux users
-- Applying basic server hardening practices
-- Deploying and running a Java application on a remote server
-
-**Key DevOps Concepts:**
-- Infrastructure provisioning
-- Linux user and permission management
-- Secure server access (SSH)
-- Manual deployment workflows
+- Provision a cloud server from scratch
+- Secure the server using Linux best practices
+- Deploy and run a Java application on raw infrastructure
+- Understand manual deployment workflows in a real cloud environment
 
 ---
 
-### 2️⃣ Nexus Artifact Repository on Cloud Server
-**Focus:** Artifact management and dependency handling
+## 🧱 Architecture Overview
 
-**What’s covered:**
-- Installing and configuring Nexus from scratch
-- Managing users, roles, and permissions
-- Publishing Java artifacts using:
-  - Gradle
-  - Maven
-- Understanding artifact versioning and storage
-
-**Key DevOps Concepts:**
-- Artifact repositories
-- Build outputs and dependencies
-- Repository security and access control
-
----
-
-### 3️⃣ AWS CLI & Cloud Resource Interaction
-**Focus:** Programmatic interaction with cloud infrastructure
-
-**What’s covered:**
-- Installing and configuring AWS CLI
-- Creating EC2 instances via CLI
-- Managing:
-  - IAM users, groups, and policies
-  - Security groups
-  - SSH key pairs
-- Listing and inspecting AWS resources from the terminal
-
-**Key DevOps Concepts:**
-- Infrastructure via command-line tools
-- IAM fundamentals
-- Cloud resource lifecycle management
+- **Cloud Provider:** DigitalOcean
+- **Compute:** Linux Droplet (Ubuntu)
+- **Application:** Java application built with Gradle
+- **Access:** SSH
+- **Deployment Type:** Manual (no automation)
 
 ---
 
 ## 🛠 Technologies Used
 
-- Cloud Platforms: AWS, DigitalOcean
-- Operating System: Linux (Ubuntu)
-- Build Tools: Maven, Gradle
-- Artifact Management: Nexus
-- Languages: Java
-- Tooling: AWS CLI, SSH
+- DigitalOcean
+- Linux (Ubuntu)
+- Java
+- Gradle
+- SSH
 
 ---
 
-## 📚 Why This Matters in a DevOps Context
+## 🚀 Implementation Steps
 
-Understanding cloud infrastructure at this level is critical because:
+### 1️⃣ Set up and Configure a Server on DigitalOcean
 
-- CI/CD pipelines deploy **onto infrastructure**
-- Containers still run **on servers**
-- Kubernetes abstracts resources that still need to exist
-- Automation tools are only effective if the underlying infrastructure is understood
+- Created a new DigitalOcean Droplet
+- Selected Ubuntu as the operating system
+- Configured region and server size
+- Generated and attached SSH keys for secure access
 
-These projects ensure a strong foundation before introducing:
-- Containers
-- Kubernetes
-- Infrastructure as Code
-- Configuration Management
+
 
 ---
 
-## 🔜 Next Steps
+### 2️⃣ Create and Configure a Secure Linux User (Best Practice)
 
-Later sections in this repository build on this foundation by introducing:
-- Docker and containerization
-- CI/CD pipelines with Jenkins
-- Kubernetes orchestration
-- Terraform and Ansible automation
+- Logged into the server using the root account
+- Created a new non-root user for application deployment
+- Assigned sudo privileges to the new user
+- Disabled direct root SSH login
+- Verified secure access using the new user
+
+📸 *Screenshot: Linux user creation and sudo configuration*
+
+---
+
+### 3️⃣ Deploy and Run a Java Gradle Application on the Droplet
+
+- Installed required system dependencies (Java, Gradle)
+- Transferred application files to the server
+- Built the application using Gradle
+- Executed the Java application on the server
+- Verified application was running successfully
+
+📸 *Screenshot: Gradle build output and running application*
+
+---
+
+## 🔐 Security Considerations
+
+- Root SSH login disabled
+- Least-privilege user model applied
+- SSH key-based authentication used
+- Separation of system administration and application execution
+
+---
+
+## 🧠 Key DevOps Concepts Demonstrated
+
+- Infrastructure provisioning
+- Linux user and permission management
+- Secure remote access
+- Manual deployment lifecycle
+- Understanding infrastructure before automation
+
+---
+
+## 📚 Lessons Learned
+
+- Why non-root users are essential for security
+- The importance of understanding infrastructure fundamentals
+- How automation tools abstract these manual steps
+- Common pitfalls during manual application deployment
+
+---
+
+## 🔜 Future Improvements
+
+- Automate server provisioning using Terraform
+- Automate configuration using Ansible
+- Containerize the application using Docker
+- Integrate CI/CD pipeline for automated deployment
 
 ---
 
