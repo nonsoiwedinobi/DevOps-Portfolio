@@ -1,4 +1,4 @@
-# DevOps Bootcamp Portfolio
+# TWN DevOps Bootcamp
 
 This repository documents my hands-on DevOps journey through the TWN DevOps Bootcamp.
 It contains real-world projects covering cloud infrastructure, CI/CD pipelines, containers,
