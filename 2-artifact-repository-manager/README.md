@@ -161,5 +161,5 @@ It focuses on setting up Nexus from scratch on a DigitalOcean Droplet, securing 
 ## 👤 Author
 
 **Nonso Iwedinobi**  
-DevOps / Platform Engineer (in progress)
+DevOps Engineer
 
