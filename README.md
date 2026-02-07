@@ -64,5 +64,5 @@ Recruiters and engineers can:
 ## Author
 
 **Nonso Iwedinobi**  
-DevOps / Platform Engineer (in progress)  
+DevOps Engineer  
 
