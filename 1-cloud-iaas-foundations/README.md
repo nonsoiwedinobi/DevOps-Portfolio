@@ -126,5 +126,5 @@ Application is now running on the web
 ## 👤 Author
 
 **Nonso Iwedinobi**  
-DevOps / Platform Engineer (in progress)
+DevOps Engineer
 
