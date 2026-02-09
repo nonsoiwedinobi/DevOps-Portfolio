@@ -102,33 +102,39 @@ It focuses on setting up Nexus from scratch on a DigitalOcean Droplet, securing 
 ### 4️⃣ Publish Java Artifacts Using Gradle
 
 - Configured Gradle build to point to Nexus repository
-  <img width="1067" height="905" alt="image" src="https://github.com/user-attachments/assets/5ac73389-3aa1-4d63-9fc3-35a1b0dfc5a5" />
+  <img width="1132" height="775" alt="image" src="https://github.com/user-attachments/assets/14a0ba5c-89b5-46fa-9a37-9c211b7c9e21" />
 
 - Built Java application artifact
-  <img width="1417" height="322" alt="image" src="https://github.com/user-attachments/assets/f1c340cb-93be-45b7-a55f-3edbd9dba765" />
-
+  <img width="1623" height="491" alt="image" src="https://github.com/user-attachments/assets/e7bd7771-ebb2-4aee-812c-4dfaa0117071" />
 
 - Authenticated with Nexus using user credentials
-  <img width="832" height="157" alt="image" src="https://github.com/user-attachments/assets/c71ddf0a-ee60-4f34-9995-8878238cee2d" />
+  <img width="976" height="202" alt="image" src="https://github.com/user-attachments/assets/480d7057-8ddd-4348-bdfd-9d72e1cc5d76" />
 
 - Uploaded artifact to Nexus repository
-  <img width="1457" height="380" alt="image" src="https://github.com/user-attachments/assets/910260b9-43ce-4667-98ae-8a4407531c19" />
+  <img width="1762" height="343" alt="image" src="https://github.com/user-attachments/assets/81a985e5-cd75-435f-8719-762281a3580d" />
 
-  <img width="1222" height="677" alt="image" src="https://github.com/user-attachments/assets/7eeeffcd-befb-4eb7-bd7f-fa0a52408f53" />
-
+  <img width="1445" height="978" alt="image" src="https://github.com/user-attachments/assets/c9f29c17-49d5-45b0-b093-8ed7161c0a64" />
 
 ---
 
 ### 5️⃣ Publish Java Artifacts Using Maven
 
 - Configured Maven `settings.xml` for Nexus authentication
+  <img width="437" height="254" alt="image" src="https://github.com/user-attachments/assets/66acaf89-21f0-4ec3-8022-bf57d98868a7" />
+
 - Updated `pom.xml` to use Nexus repository
+  <img width="1019" height="865" alt="image" src="https://github.com/user-attachments/assets/46b7640d-2af2-439c-afd5-6dde4868d81a" />
+
 - Built Java artifact with Maven
-  <img width="1114" height="952" alt="image" src="https://github.com/user-attachments/assets/a93331eb-141c-4c48-96e2-c68d0a2ff7dc" />
+  <img width="1743" height="836" alt="image" src="https://github.com/user-attachments/assets/d18f2d53-d11d-494c-8368-2b80cfca1af9" />
+
+  <img width="1880" height="608" alt="image" src="https://github.com/user-attachments/assets/3c37b01a-db58-4399-a9be-48a76b9434ae" />
+
 
 - Verified successful upload to Nexus
 
-📸 *Screenshot: Maven build and artifact upload*
+  <img width="1408" height="669" alt="image" src="https://github.com/user-attachments/assets/6487cb81-4a4d-4d2d-99ef-6662ed6faf84" />
+
 
 ---
 
