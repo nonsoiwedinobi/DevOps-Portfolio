@@ -124,6 +124,8 @@ It focuses on setting up Nexus from scratch on a DigitalOcean Droplet, securing 
 - Configured Maven `settings.xml` for Nexus authentication
 - Updated `pom.xml` to use Nexus repository
 - Built Java artifact with Maven
+  <img width="1114" height="952" alt="image" src="https://github.com/user-attachments/assets/a93331eb-141c-4c48-96e2-c68d0a2ff7dc" />
+
 - Verified successful upload to Nexus
 
 📸 *Screenshot: Maven build and artifact upload*
