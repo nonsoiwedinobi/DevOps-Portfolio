@@ -44,7 +44,17 @@ It focuses on setting up Nexus from scratch on a DigitalOcean Droplet, securing 
 - Configured secure SSH access
 - Installed Java and required system dependencies
 
-📸 *Screenshot: Droplet creation and server login*
+<img width="1427" height="808" alt="image" src="https://github.com/user-attachments/assets/57182400-e2b6-47ee-84a7-53dd0ae230a6" />
+
+<img width="1346" height="531" alt="image" src="https://github.com/user-attachments/assets/8ce6ca97-d462-4bee-b49a-056f186108ee" />44
+
+<img width="1511" height="735" alt="image" src="https://github.com/user-attachments/assets/f0c5caa7-a4cb-43bd-8d9c-83f4d8acf24e" />
+
+<img width="1148" height="747" alt="image" src="https://github.com/user-attachments/assets/b88ba2e2-fd46-4513-bcae-ee4daa9ff6c8" />
+
+<img width="1467" height="602" alt="image" src="https://github.com/user-attachments/assets/db1e15ae-9fce-498f-8b7f-d472cd440472" />
+
+<img width="1466" height="537" alt="image" src="https://github.com/user-attachments/assets/fa019832-c756-416c-8d89-2082cca49ebd" />
 
 ---
 
@@ -66,26 +76,25 @@ It focuses on setting up Nexus from scratch on a DigitalOcean Droplet, securing 
 ### 3️⃣ Create Nexus Users and Assign Permissions
 
 - Created a new Nexus user
-  <img width="906" height="510" alt="image" src="https://github.com/user-attachments/assets/6ff7e823-d436-4570-8b65-bb0edbfbb476" />
+  <img width="913" height="513" alt="image" src="https://github.com/user-attachments/assets/49136278-7bef-47f5-ad6f-eaa256713ead" />
 
 - Assigned repository-specific roles and permissions
-  <img width="1021" height="207" alt="image" src="https://github.com/user-attachments/assets/b268e4ad-05f6-467e-b957-8a1ed802b55a" />
+  <img width="1036" height="360" alt="image" src="https://github.com/user-attachments/assets/11f7cca2-274a-4986-9dcb-7b552e3bb61e" />
 
 - Applied the principle of least privilege
   <img width="713" height="712" alt="image" src="https://github.com/user-attachments/assets/7d2429aa-e19f-432c-93e9-ba92e777b9a1" />
 
-- Tested access using the new user account
-  <img width="846" height="47" alt="image" src="https://github.com/user-attachments/assets/95265a18-d73d-4204-a1d6-baa7b35e3f7e" />
+  <img width="912" height="26" alt="image" src="https://github.com/user-attachments/assets/4763035d-af71-4cc6-9572-98911131a8e0" />
+
+  <img width="557" height="297" alt="image" src="https://github.com/user-attachments/assets/821545cb-458b-4d36-b31c-74da91998776" />
+
 - Starting Nexus
   <img width="1027" height="91" alt="image" src="https://github.com/user-attachments/assets/27fb3a09-414f-472b-bb08-07afb0d8323b" />
 - Check to conform nexus service running
   <img width="1452" height="447" alt="image" src="https://github.com/user-attachments/assets/e97760d4-7bbf-4fdb-a840-b2033db26484" />
 
-  <img width="1885" height="905" alt="image" src="https://github.com/user-attachments/assets/fffb1de9-c5e1-44eb-a194-25b4fa7d4385" />
+  <img width="1905" height="958" alt="image" src="https://github.com/user-attachments/assets/832a4a7d-f96b-4835-8c0d-6c8c230d870a" />
 
-  <img width="1880" height="871" alt="image" src="https://github.com/user-attachments/assets/0f1f3d8b-2863-481e-af07-84a8f1e81ca7" />
-  
-  <img width="1280" height="812" alt="image" src="https://github.com/user-attachments/assets/a7420176-d53f-4af5-80b0-05586ab02aa9" />
 
 
 ---
