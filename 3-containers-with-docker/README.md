@@ -107,6 +107,7 @@ The objective of these projects is to demonstrate:
 
 - Tagged and pushed images to Nexus Docker registry
 - <img width="1167" height="273" alt="image" src="https://github.com/user-attachments/assets/82b8a0ee-d183-4f35-8caf-fd23951afb2c" />
+
 - <img width="1664" height="590" alt="image" src="https://github.com/user-attachments/assets/956987bb-c057-471a-9763-3fa4db0bda14" />
 
 
@@ -118,10 +119,18 @@ The objective of these projects is to demonstrate:
 ### 5️⃣ Deploy Nexus as a Docker Container
 
 - Provisioned a cloud server
+- <img width="1560" height="814" alt="image" src="https://github.com/user-attachments/assets/fbf4cb00-17fa-4bd5-9a44-1183299261ac" />
+
+- <img width="1412" height="383" alt="image" src="https://github.com/user-attachments/assets/b3371287-7003-4197-916b-f580e9675b10" />
+- 
+
 - Ran Nexus Repository Manager as a Docker container
 - Exposed required ports
   <img width="1225" height="732" alt="image" src="https://github.com/user-attachments/assets/8ffa8880-2472-449c-801e-3de505986f66" />
-- Pushed 
+  
+- Pushed images to private repo
+- <img width="1664" height="590" alt="image" src="https://github.com/user-attachments/assets/7288d5e9-b1d8-4297-ae8e-37ecba6e4378" />
+
 - Persisted Nexus data using Docker volumes
 
 📸 *Screenshot: Nexus running as Docker container*
@@ -131,9 +140,15 @@ The objective of these projects is to demonstrate:
 ### 6️⃣ Deploy Docker Application on a Server with Docker Compose
 
 - Copied Docker Compose configuration to a remote server
+- 
 - Authenticated to a private Docker registry
 - Pulled application images
 - Started multi-container application using Docker Compose
+- <img width="1125" height="959" alt="image" src="https://github.com/user-attachments/assets/8a410ec3-5922-464b-a07c-b60f0a9884c0" />
+
+- <img width="1825" height="929" alt="image" src="https://github.com/user-attachments/assets/eacd6cc8-4fc5-4c46-8859-9ef9bbe3b98a" />
+
+
 
 📸 *Screenshot: Application running on remote server*
 
