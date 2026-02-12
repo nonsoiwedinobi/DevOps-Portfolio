@@ -49,12 +49,14 @@ The objective of these projects is to demonstrate:
 ### Docker for Local Development (Node.js + MongoDB)
 
 - Created a Dockerfile for a Node.js application
+  
   <img width="622" height="391" alt="image" src="https://github.com/user-attachments/assets/4f5bd392-de28-49c8-a6af-1fd0ddd5e50d" />
 
 - Built Docker images locally
   <img width="1549" height="897" alt="image" src="https://github.com/user-attachments/assets/330f7fb7-8e0d-4961-b583-a48d67fc0ebb" />
 
 - Ran application and database containers
+  
   <img width="666" height="78" alt="image" src="https://github.com/user-attachments/assets/070d59cd-b61b-420e-9801-428b73ee7e8c" />
 
   <img width="1327" height="71" alt="image" src="https://github.com/user-attachments/assets/97f68f60-5abe-47b0-aaa7-f0d30ab6a841" />
