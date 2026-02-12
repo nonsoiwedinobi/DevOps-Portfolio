@@ -46,7 +46,7 @@ It focuses on setting up Nexus from scratch on a DigitalOcean Droplet, securing 
 
 <img width="1427" height="808" alt="image" src="https://github.com/user-attachments/assets/57182400-e2b6-47ee-84a7-53dd0ae230a6" />
 
-<img width="1346" height="531" alt="image" src="https://github.com/user-attachments/assets/8ce6ca97-d462-4bee-b49a-056f186108ee" />44
+<img width="1346" height="531" alt="image" src="https://github.com/user-attachments/assets/8ce6ca97-d462-4bee-b49a-056f186108ee" />
 
 <img width="1511" height="735" alt="image" src="https://github.com/user-attachments/assets/f0c5caa7-a4cb-43bd-8d9c-83f4d8acf24e" />
 
@@ -69,19 +69,20 @@ It focuses on setting up Nexus from scratch on a DigitalOcean Droplet, securing 
 - Configured Nexus to run on a dedicated port
 - Verified Nexus was accessible via browser
 
-📸 *Screenshot: Nexus web interface running*
-
 ---
 
 ### 3️⃣ Create Nexus Users and Assign Permissions
 
 - Created a new Nexus user
+  
   <img width="913" height="513" alt="image" src="https://github.com/user-attachments/assets/49136278-7bef-47f5-ad6f-eaa256713ead" />
 
 - Assigned repository-specific roles and permissions
+  
   <img width="1036" height="360" alt="image" src="https://github.com/user-attachments/assets/11f7cca2-274a-4986-9dcb-7b552e3bb61e" />
 
 - Applied the principle of least privilege
+  
   <img width="713" height="712" alt="image" src="https://github.com/user-attachments/assets/7d2429aa-e19f-432c-93e9-ba92e777b9a1" />
 
   <img width="912" height="26" alt="image" src="https://github.com/user-attachments/assets/4763035d-af71-4cc6-9572-98911131a8e0" />
@@ -89,28 +90,33 @@ It focuses on setting up Nexus from scratch on a DigitalOcean Droplet, securing 
   <img width="557" height="297" alt="image" src="https://github.com/user-attachments/assets/821545cb-458b-4d36-b31c-74da91998776" />
 
 - Starting Nexus
+
   <img width="1027" height="91" alt="image" src="https://github.com/user-attachments/assets/27fb3a09-414f-472b-bb08-07afb0d8323b" />
+  
 - Check to conform nexus service running
+  
   <img width="1452" height="447" alt="image" src="https://github.com/user-attachments/assets/e97760d4-7bbf-4fdb-a840-b2033db26484" />
 
   <img width="1905" height="958" alt="image" src="https://github.com/user-attachments/assets/832a4a7d-f96b-4835-8c0d-6c8c230d870a" />
-
-
 
 ---
 
 ### 4️⃣ Publish Java Artifacts Using Gradle
 
 - Configured Gradle build to point to Nexus repository
+  
   <img width="1132" height="775" alt="image" src="https://github.com/user-attachments/assets/14a0ba5c-89b5-46fa-9a37-9c211b7c9e21" />
 
 - Built Java application artifact
+  
   <img width="1623" height="491" alt="image" src="https://github.com/user-attachments/assets/e7bd7771-ebb2-4aee-812c-4dfaa0117071" />
 
 - Authenticated with Nexus using user credentials
+  
   <img width="976" height="202" alt="image" src="https://github.com/user-attachments/assets/480d7057-8ddd-4348-bdfd-9d72e1cc5d76" />
 
 - Uploaded artifact to Nexus repository
+  
   <img width="1762" height="343" alt="image" src="https://github.com/user-attachments/assets/81a985e5-cd75-435f-8719-762281a3580d" />
 
   <img width="1445" height="978" alt="image" src="https://github.com/user-attachments/assets/c9f29c17-49d5-45b0-b093-8ed7161c0a64" />
@@ -120,12 +126,15 @@ It focuses on setting up Nexus from scratch on a DigitalOcean Droplet, securing 
 ### 5️⃣ Publish Java Artifacts Using Maven
 
 - Configured Maven `settings.xml` for Nexus authentication
+  
   <img width="437" height="254" alt="image" src="https://github.com/user-attachments/assets/66acaf89-21f0-4ec3-8022-bf57d98868a7" />
 
 - Updated `pom.xml` to use Nexus repository
+  
   <img width="1019" height="865" alt="image" src="https://github.com/user-attachments/assets/46b7640d-2af2-439c-afd5-6dde4868d81a" />
 
 - Built Java artifact with Maven
+  
   <img width="1743" height="836" alt="image" src="https://github.com/user-attachments/assets/d18f2d53-d11d-494c-8368-2b80cfca1af9" />
 
   <img width="1880" height="608" alt="image" src="https://github.com/user-attachments/assets/3c37b01a-db58-4399-a9be-48a76b9434ae" />
@@ -134,7 +143,6 @@ It focuses on setting up Nexus from scratch on a DigitalOcean Droplet, securing 
 - Verified successful upload to Nexus
 
   <img width="1408" height="669" alt="image" src="https://github.com/user-attachments/assets/6487cb81-4a4d-4d2d-99ef-6662ed6faf84" />
-
 
 ---
 
