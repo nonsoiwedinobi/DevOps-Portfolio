@@ -111,6 +111,8 @@ The objective of these projects is to demonstrate:
 
   <img width="1241" height="707" alt="image" src="https://github.com/user-attachments/assets/7b75c01e-e794-4c31-9e4e-d0eadb6e817f" />
 
+  <img width="1341" height="706" alt="image" src="https://github.com/user-attachments/assets/01603420-930b-4c74-bfb6-5b0561f8f187" />
+
 ---
 
 ### 3️⃣ Jenkins Shared Library
