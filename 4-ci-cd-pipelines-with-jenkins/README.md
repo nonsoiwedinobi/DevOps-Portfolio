@@ -98,10 +98,18 @@ The objective of these projects is to demonstrate:
   <img width="1873" height="904" alt="image" src="https://github.com/user-attachments/assets/22410adc-13d4-478e-a480-4fc1f67a8e64" />
 
 - Built Java artifacts using Maven
+
+  <img width="1301" height="782" alt="image" src="https://github.com/user-attachments/assets/189deb2f-eda0-4bff-8796-31dfdc558ec0" />
+
+  <img width="1453" height="712" alt="image" src="https://github.com/user-attachments/assets/ba93bdce-2ddd-4958-affd-487f50897a43" />
+
 - Built Docker images from application code
+
+  <img width="1046" height="290" alt="image" src="https://github.com/user-attachments/assets/cce8d007-2b18-44c3-9e56-b5ea0f51f491" />
+
 - Pushed images to private container registries
 
-📸 *Screenshot: Jenkins pipeline execution*
+  <img width="1241" height="707" alt="image" src="https://github.com/user-attachments/assets/7b75c01e-e794-4c31-9e4e-d0eadb6e817f" />
 
 ---
 
