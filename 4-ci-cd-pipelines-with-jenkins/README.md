@@ -113,6 +113,10 @@ The objective of these projects is to demonstrate:
 
   <img width="1341" height="706" alt="image" src="https://github.com/user-attachments/assets/01603420-930b-4c74-bfb6-5b0561f8f187" />
 
+- Pushed complete pipeline to docker
+
+  <img width="1250" height="975" alt="image" src="https://github.com/user-attachments/assets/d3d37c2b-2608-4c5c-acf1-e696c1a56bc7" />
+
 ---
 
 ### 3️⃣ Jenkins Shared Library
