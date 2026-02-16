@@ -122,11 +122,19 @@ The objective of these projects is to demonstrate:
 ### 3️⃣ Jenkins Shared Library
 
 - Created a separate Git repository for shared pipeline logic
-- Implemented reusable Groovy functions
-- Integrated shared library globally and per-project
-- Reduced duplication across Jenkinsfiles
 
-📸 *Screenshot: Jenkins shared library usage*
+  <img width="1322" height="781" alt="image" src="https://github.com/user-attachments/assets/5397a676-2176-4fb4-99fe-cac8c9028731" />
+
+- Implemented reusable Groovy functions
+
+  <img width="1883" height="796" alt="image" src="https://github.com/user-attachments/assets/5839e430-f928-41d2-a095-55851cbb03f4" />
+
+- Integrated shared library globally and per-project
+
+  <img width="1725" height="856" alt="image" src="https://github.com/user-attachments/assets/6c44092b-e8e1-459e-96a7-84a44c9c4b28" />
+
+  <img width="918" height="831" alt="image" src="https://github.com/user-attachments/assets/8c928fd1-ecd8-4f31-83e2-66bc54d2e8b3" />
+
 
 ---
 
