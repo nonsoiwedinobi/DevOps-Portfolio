@@ -140,12 +140,17 @@ The objective of these projects is to demonstrate:
 
 ### 4️⃣ Webhook Integration for Automatic Builds
 
-- Configured GitLab webhooks
+- Configured GitHub webhooks
+
+  <img width="1696" height="737" alt="image" src="https://github.com/user-attachments/assets/cc0f0551-6e84-4047-a759-8f318c2b90f8" />
+
 - Installed GitLab plugin in Jenkins
-- Triggered CI pipelines automatically on code changes
+
+  <img width="1902" height="758" alt="image" src="https://github.com/user-attachments/assets/d30f1cab-37a9-4fe3-b1d4-77234a722a39" />
+
 - Verified webhook-triggered builds
 
-📸 *Screenshot: Webhook-triggered pipeline*
+  <img width="1215" height="757" alt="image" src="https://github.com/user-attachments/assets/2b76e4bd-6d99-45f5-b705-aa127e17dd99" />
 
 ---
 
