@@ -157,25 +157,23 @@ The objective of these projects is to demonstrate:
 ### 5️⃣ Dynamic Application Versioning in CI/CD
 
 - Automatically incremented application version during CI
+
+  <img width="1905" height="902" alt="image" src="https://github.com/user-attachments/assets/d7895845-4e30-4d1a-a4b1-8f7c5254ec43" />
+
 - Built Docker images with dynamic tags
-- Pushed versioned images to private registries
+
+  <img width="1527" height="522" alt="image" src="https://github.com/user-attachments/assets/e41f4fcc-54d9-4d97-90ee-d1e103854b05" />
+
 - Committed version updates back to Git
+
+  <img width="1567" height="562" alt="image" src="https://github.com/user-attachments/assets/67856f99-0619-45ee-9384-727dc3b31649" />
+
 - Prevented infinite build loops from CI commits
 
-📸 *Screenshot: Versioned Docker image build*
+  <img width="1523" height="160" alt="image" src="https://github.com/user-attachments/assets/a3713e3c-abf3-4c8b-b7c5-5d66a71c7bec" />
 
----
+  <img width="1895" height="927" alt="image" src="https://github.com/user-attachments/assets/f979b03f-c8b5-47e6-a5f0-534a2cb3b289" />
 
-### 6️⃣ Continuous Deployment Targets
-
-- Extended CI pipelines with deployment stages
-- Deployed applications to:
-  - Linux servers (Docker)
-  - EC2 instances
-  - Kubernetes clusters
-- Used SSH-based deployments and container orchestration
-
-📸 *Screenshot: Successful deployment from Jenkins*
 
 ---
 
