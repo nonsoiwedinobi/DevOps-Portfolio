@@ -50,11 +50,26 @@ The objective of these projects is to demonstrate:
 ### 1️⃣ Deploy Web Application on EC2 (Manual Deployment)
 
 - Created and configured an EC2 instance
+
+  <img width="1577" height="697" alt="image" src="https://github.com/user-attachments/assets/06a2e24d-59bf-496b-b7e6-81030a8b3eb4" />
+
+  <img width="780" height="467" alt="image" src="https://github.com/user-attachments/assets/0b43ce1b-3147-41b7-aa73-e5bb2874a3fe" />
+
 - Installed Docker on EC2
+
+  <img width="1861" height="201" alt="image" src="https://github.com/user-attachments/assets/2528335a-3370-414a-9e3f-18eb29c026e4" />
+
 - Pulled Docker image from private registry
+
+  <img width="848" height="380" alt="image" src="https://github.com/user-attachments/assets/868a32c2-87b4-4135-9004-c96c914bfd67" />
+
+- Opened port 3000 for our web app
+
+  <img width="1557" height="602" alt="image" src="https://github.com/user-attachments/assets/5d3dcb49-f8a1-4de3-95b0-d0cabc3d84e3" />
+
 - Deployed application manually on EC2
 
-📸 *Screenshot: Application running on EC2*
+  <img width="1897" height="683" alt="image" src="https://github.com/user-attachments/assets/d7ed8032-c67b-4afa-a963-7c373ae78bd4" />
 
 ---
 
@@ -148,3 +163,4 @@ The objective of these projects is to demonstrate:
 
 **Nonso Iwedinobi**  
 DevOps Engineer
+
