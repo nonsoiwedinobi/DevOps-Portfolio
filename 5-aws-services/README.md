@@ -76,11 +76,20 @@ The objective of these projects is to demonstrate:
 ### 2️⃣ CI/CD – Deploy Application from Jenkins to EC2
 
 - Created SSH credentials in Jenkins
+
+  <img width="1575" height="115" alt="image" src="https://github.com/user-attachments/assets/be88afd0-5ed1-4b8e-b81b-26dce3ca5b5a" />
+
 - Extended CI pipeline with deployment stage
+
+  <img width="1422" height="853" alt="image" src="https://github.com/user-attachments/assets/b8905ccf-1c29-47f8-8cdf-c650e7ef4787" />
+
 - SSH into EC2 from Jenkins
+
+  <img width="1757" height="907" alt="image" src="https://github.com/user-attachments/assets/b766f2f4-986d-40b2-ab1e-4fce62c8ffd5" />
+
 - Pulled and ran updated Docker image automatically
 
-📸 *Screenshot: Jenkins deploying to EC2*
+  <img width="845" height="97" alt="image" src="https://github.com/user-attachments/assets/54f5177d-0ff6-4f8f-aed5-878a18c1cf1e" />
 
 ---
 
@@ -163,4 +172,5 @@ The objective of these projects is to demonstrate:
 
 **Nonso Iwedinobi**  
 DevOps Engineer
+
 
