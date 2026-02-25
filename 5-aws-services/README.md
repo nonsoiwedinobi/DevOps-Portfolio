@@ -93,7 +93,6 @@ The objective of these projects is to demonstrate:
 
   <img width="1917" height="707" alt="image" src="https://github.com/user-attachments/assets/3548f4d9-60c9-4ad7-89ea-1ff55abb2c3b" />
 
-
 ---
 
 ### 3️⃣ Deploy Application with Docker Compose on EC2
@@ -175,6 +174,7 @@ The objective of these projects is to demonstrate:
 
 **Nonso Iwedinobi**  
 DevOps Engineer
+
 
 
 
