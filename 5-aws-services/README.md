@@ -98,6 +98,9 @@ The objective of these projects is to demonstrate:
 ### 3️⃣ Deploy Application with Docker Compose on EC2
 
 - Installed Docker Compose on EC2
+
+  <img width="1463" height="281" alt="image" src="https://github.com/user-attachments/assets/ef6a0b10-8980-4735-8228-3366ee50704d" />
+
 - Created `docker-compose.yml`
 - Deployed multi-container application remotely
 - Extracted remote commands into reusable shell scripts
@@ -174,6 +177,7 @@ The objective of these projects is to demonstrate:
 
 **Nonso Iwedinobi**  
 DevOps Engineer
+
 
 
 
