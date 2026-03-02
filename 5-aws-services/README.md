@@ -102,10 +102,16 @@ The objective of these projects is to demonstrate:
   <img width="1463" height="281" alt="image" src="https://github.com/user-attachments/assets/ef6a0b10-8980-4735-8228-3366ee50704d" />
 
 - Created `docker-compose.yml`
-- Deployed multi-container application remotely
+
+  <img width="1495" height="520" alt="image" src="https://github.com/user-attachments/assets/a3444951-bd44-4ed0-847e-b87cd552895e" />
+
+  <img width="1895" height="205" alt="image" src="https://github.com/user-attachments/assets/616379d3-5837-4ce8-895c-1f312703a64e" />
+
 - Extracted remote commands into reusable shell scripts
 
-📸 *Screenshot: Docker Compose deployment on EC2*
+  <img width="1868" height="915" alt="image" src="https://github.com/user-attachments/assets/3dba6c98-b5e5-4824-ade6-105b4d6d97fb" />
+
+  <img width="1887" height="791" alt="image" src="https://github.com/user-attachments/assets/60e0b8a7-11b7-4621-99c7-5b6b686f007c" />
 
 ---
 
@@ -177,6 +183,7 @@ The objective of these projects is to demonstrate:
 
 **Nonso Iwedinobi**  
 DevOps Engineer
+
 
 
 
