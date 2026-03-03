@@ -130,11 +130,20 @@ The objective of these projects is to demonstrate:
 ### 5️⃣ Create Private Docker Registry with Amazon ECR
 
 - Created private Docker repository in ECR
-- Authenticated Docker client with AWS
-- Tagged and pushed Docker images to ECR
-- Pulled images from ECR for deployment
 
-📸 *Screenshot: Docker image in ECR repository*
+  <img width="1577" height="416" alt="image" src="https://github.com/user-attachments/assets/014aa9e4-da3c-479d-9f69-4a1320b1c838" />
+
+- Authenticated Docker client with AWS
+
+  <img width="1463" height="92" alt="image" src="https://github.com/user-attachments/assets/fa60e1d5-e061-4165-87bb-f544d9d4e675" />
+
+- Tagged and pushed Docker images to ECR
+
+  <img width="1866" height="402" alt="image" src="https://github.com/user-attachments/assets/bc51b84f-6499-4334-836a-d84f74dc727b" />
+
+  <img width="1227" height="155" alt="image" src="https://github.com/user-attachments/assets/f5750cfe-7b42-40f8-a6d6-06e89b5784c5" />
+
+- Pulled images from ECR for deployment
 
 ---
 
@@ -183,6 +192,7 @@ The objective of these projects is to demonstrate:
 
 **Nonso Iwedinobi**  
 DevOps Engineer
+
 
 
 
