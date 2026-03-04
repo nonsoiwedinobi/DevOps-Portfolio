@@ -118,12 +118,24 @@ The objective of these projects is to demonstrate:
 ### 4️⃣ Interacting with AWS CLI
 
 - Installed and configured AWS CLI
+
+  <img width="1180" height="172" alt="image" src="https://github.com/user-attachments/assets/a20b3116-38f0-4bbc-a11c-c514f39bcb25" />
+
+  <img width="1052" height="137" alt="image" src="https://github.com/user-attachments/assets/774b4a1a-cb62-4f16-b2c7-c209147143e4" />
+
 - Created EC2 instances using CLI
+
+  <img width="1448" height="148" alt="image" src="https://github.com/user-attachments/assets/022eac6f-2f3d-4a66-b21a-66cf8b09d0e6" />
+
+  <img width="1401" height="486" alt="image" src="https://github.com/user-attachments/assets/3d535b31-b956-4000-a985-a80966c600b6" />
+
+  <img width="553" height="97" alt="image" src="https://github.com/user-attachments/assets/3013dd6c-47fb-490a-bec4-10675a9922e7" />
+
+  <img width="1037" height="682" alt="image" src="https://github.com/user-attachments/assets/ee23bc07-b38b-405c-bbc4-c1fdcf444144" />
+
 - Created IAM users, groups, and policies
 - Managed SSH key pairs
 - Listed and inspected AWS resources
-
-📸 *Screenshot: AWS CLI creating EC2 instance*
 
 ---
 
@@ -142,8 +154,6 @@ The objective of these projects is to demonstrate:
   <img width="1866" height="402" alt="image" src="https://github.com/user-attachments/assets/bc51b84f-6499-4334-836a-d84f74dc727b" />
 
   <img width="1227" height="155" alt="image" src="https://github.com/user-attachments/assets/f5750cfe-7b42-40f8-a6d6-06e89b5784c5" />
-
-- Pulled images from ECR for deployment
 
 ---
 
@@ -192,6 +202,7 @@ The objective of these projects is to demonstrate:
 
 **Nonso Iwedinobi**  
 DevOps Engineer
+
 
 
 
