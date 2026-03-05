@@ -153,6 +153,7 @@ The objective of these projects is to demonstrate:
 
 - Listed and inspected AWS resources
 
+  <img width="1032" height="857" alt="image" src="https://github.com/user-attachments/assets/66ea13ee-910e-41b1-a34e-f50269add3d1" />
 ---
 
 ### 5️⃣ Create Private Docker Registry with Amazon ECR
@@ -218,6 +219,7 @@ The objective of these projects is to demonstrate:
 
 **Nonso Iwedinobi**  
 DevOps Engineer
+
 
 
 
