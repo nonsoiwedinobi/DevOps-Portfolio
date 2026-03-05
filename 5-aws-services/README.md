@@ -134,7 +134,23 @@ The objective of these projects is to demonstrate:
   <img width="1037" height="682" alt="image" src="https://github.com/user-attachments/assets/ee23bc07-b38b-405c-bbc4-c1fdcf444144" />
 
 - Created IAM users, groups, and policies
+
+  <img width="778" height="247" alt="image" src="https://github.com/user-attachments/assets/26620ae3-1cdb-4cf5-9ccb-d2828d154179" />
+
+  <img width="712" height="225" alt="image" src="https://github.com/user-attachments/assets/cbf05396-5b0a-43fe-8cd2-370988f5e021" />
+
+  <img width="1077" height="465" alt="image" src="https://github.com/user-attachments/assets/4609b07b-912f-4c25-b905-03cd75e8e58f" />
+
+  <img width="935" height="210" alt="image" src="https://github.com/user-attachments/assets/7e06baec-54a3-4c6a-a291-bb3d8868bb29" />
+
+  <img width="1383" height="187" alt="image" src="https://github.com/user-attachments/assets/6f719ddf-845d-479f-ae32-67c846e7bb29" />
+
+  <img width="1307" height="346" alt="image" src="https://github.com/user-attachments/assets/50c1fe81-e066-441a-95b9-0b7230d0d41a" />
+
 - Managed SSH key pairs
+
+  <img width="875" height="237" alt="image" src="https://github.com/user-attachments/assets/616421bb-d43e-4b47-9417-0e4165c03e4b" />
+
 - Listed and inspected AWS resources
 
 ---
@@ -202,6 +218,7 @@ The objective of these projects is to demonstrate:
 
 **Nonso Iwedinobi**  
 DevOps Engineer
+
 
 
 
