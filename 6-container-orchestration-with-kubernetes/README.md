@@ -49,14 +49,24 @@ The objective of these projects is to demonstrate:
 ### 1️⃣ Deploy MongoDB and Mongo Express in a Local Kubernetes Cluster
 
 - Set up a local Kubernetes cluster using **Minikube**
+
+  <img width="1461" height="652" alt="image" src="https://github.com/user-attachments/assets/f7d9e686-ba1b-4e3c-8471-5d2df13e4868" />
+
+  <img width="486" height="176" alt="image" src="https://github.com/user-attachments/assets/30d55ecc-ab30-4607-b4db-a32679e3f0b5" />
+
 - Created Kubernetes manifests for:
   - Deployments
-  - Services
+    <img width="885" height="222" alt="image" src="https://github.com/user-attachments/assets/25f417c7-df8b-4f70-aaaa-5deb8a43021e" />
+
 - Configured MongoDB credentials using **Secrets**
+
+  <img width="597" height="340" alt="image" src="https://github.com/user-attachments/assets/a406c495-5dba-477f-849c-e05939e3c626" />
+
+  <img width="1021" height="192" alt="image" src="https://github.com/user-attachments/assets/72115835-2167-4378-a23b-8a2f32afd546" />
+
 - Managed application configuration using **ConfigMaps**
 
-📸 *Screenshot: MongoDB and Mongo Express running in Kubernetes*
-
+  <img width="1078" height="251" alt="image" src="https://github.com/user-attachments/assets/bb456355-ce90-4b02-ad0a-8371d19ce7ea" />
 ---
 
 ### 2️⃣ Deploy Stateful Services Using Helm
