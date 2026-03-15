@@ -69,6 +69,10 @@ The objective of these projects is to demonstrate:
   <img width="1078" height="251" alt="image" src="https://github.com/user-attachments/assets/bb456355-ce90-4b02-ad0a-8371d19ce7ea" />
 
   <img width="1757" height="646" alt="image" src="https://github.com/user-attachments/assets/11548353-934e-4533-ad98-66a76687c96d" />
+
+  <p align="center">
+  <img src="screenshots/Screenshot 2026-01-16 220114.png" width="800">
+</p>
   
 ---
 
