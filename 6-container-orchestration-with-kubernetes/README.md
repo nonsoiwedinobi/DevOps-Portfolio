@@ -73,6 +73,10 @@ The objective of these projects is to demonstrate:
   <p align="center">
   <img src="screenshots/Screenshot 2026-01-16 220114.png" width="800">
 </p>
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="800">
+</p>
   
 ---
 
