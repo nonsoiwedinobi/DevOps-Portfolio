@@ -95,6 +95,14 @@ The objective of these projects is to demonstrate:
 ### 3️⃣ Deploy Mosquitto Message Broker Using ConfigMaps and Secrets
 
 - Created Kubernetes configuration for Mosquitto
+
+  <p align="center">
+  <img src="screenshots/mosquitto.png" width="800">
+</p>
+
+<p align="center">
+  <img src="screenshots/mosquitto2.png" width="800">
+</p>
 - Stored credentials using Kubernetes **Secrets**
 - Managed configuration files with **ConfigMaps**
 - Mounted configuration volumes into containers
