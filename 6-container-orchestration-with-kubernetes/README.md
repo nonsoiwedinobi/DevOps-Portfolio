@@ -103,6 +103,11 @@ The objective of these projects is to demonstrate:
   <img src="screenshots/NGINX-ingress.png" width="800">
 </p>
 
+- Deployed Mongo Express as a client UI
+
+  <p align="center">
+  <img src="screenshots/mongo-express-ui.png" width="800">
+</p>
 ---
 
 ### 3️⃣ Deploy Mosquitto Message Broker Using ConfigMaps and Secrets
