@@ -83,12 +83,25 @@ The objective of these projects is to demonstrate:
 ### 2️⃣ Deploy Stateful Services Using Helm
 
 - Created a managed Kubernetes cluster
+
+  <p align="center">
+  <img src="screenshots/k8s-cluster.png" width="800">
+</p>
 - Installed MongoDB using a **Helm chart**
+
+<p align="center">
+  <img src="screenshots/Installed-mongodb-helm-chart.png" width="800">
+</p>
 - Configured persistent storage
-- Deployed Mongo Express as a client UI
+
+<p align="center">
+  <img src="screenshots/persisted-volume.png" width="800">
+</p>
 - Configured **NGINX ingress** for external access
 
-📸 *Screenshot: Helm deployment in Kubernetes*
+<p align="center">
+  <img src="screenshots/NGINX-ingress.png" width="800">
+</p>
 
 ---
 
@@ -103,12 +116,6 @@ The objective of these projects is to demonstrate:
 <p align="center">
   <img src="screenshots/mosquitto2.png" width="800">
 </p>
-- Stored credentials using Kubernetes **Secrets**
-- Managed configuration files with **ConfigMaps**
-- Mounted configuration volumes into containers
-
-📸 *Screenshot: Mosquitto deployment in Kubernetes*
-
 ---
 
 ### 4️⃣ Deploy Application from Private Docker Registry
