@@ -126,7 +126,15 @@ The objective of these projects is to demonstrate:
 ### 4️⃣ Deploy Application from Private Docker Registry
 
 - Created Kubernetes **image pull secrets**
+
+  <p align="center">
+  <img src="screenshots/created-secrets.png" width="800">
+  </p>
 - Configured Kubernetes deployment to pull images from private registry
+
+  <p align="center">
+  <img src="screenshots/pull-image-from-private.png" width="800">
+  </p>
 - Deployed application to cluster
 
 📸 *Screenshot: Kubernetes pulling image from private registry*
