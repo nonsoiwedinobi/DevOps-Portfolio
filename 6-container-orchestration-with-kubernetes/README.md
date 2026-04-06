@@ -160,18 +160,39 @@ The objective of these projects is to demonstrate:
 ### 6️⃣ Create Reusable Helm Charts
 
 - Created reusable Helm chart templates
+
+  <p align="center">
+  <img src="screenshots/templates.png" width="800">
+  </p>
 - Defined Deployment and Service templates
+
+  <p align="center">
+  <img src="screenshots/service.png" width="800">
+  </p>
 - Parameterized application configuration
+
+  <p align="center">
+  <img src="screenshots/parameterized.png" width="800">
+  </p>
 - Reused charts across multiple services
 
-📸 *Screenshot: Helm chart deployment*
-
+  <p align="center">
+  <img src="screenshots/reused-charts.png" width="800">
+  </p>
 ---
 
 ### 7️⃣ Deploy Applications Using Helmfile
 
 - Managed multiple Helm deployments using **Helmfile**
-- Simplified management of microservices deployments
+
+  <p align="center">
+  <img src="screenshots/helm-file.png" width="800">
+  </p>
+- Deployed app
+
+  <p align="center">
+  <img src="screenshots/node-balancer.png" width="800">
+  </p>
 - Centralized environment configuration
 
 📸 *Screenshot: Helmfile deployment*
