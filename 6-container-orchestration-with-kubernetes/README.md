@@ -194,9 +194,6 @@ The objective of these projects is to demonstrate:
   <img src="screenshots/node-balancer.png" width="800">
   </p>
 - Centralized environment configuration
-
-📸 *Screenshot: Helmfile deployment*
-
 ---
 
 ## 🔐 Security Considerations
