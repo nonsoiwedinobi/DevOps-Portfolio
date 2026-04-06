@@ -126,22 +126,35 @@ The objective of these projects is to demonstrate:
 ### 4️⃣ Deploy Application from Private Docker Registry
 
 - Created Kubernetes **image pull secrets**
+
+  <p align="center">
+  <img src="screenshots/created-secrets.png" width="800">
+  </p>
 - Configured Kubernetes deployment to pull images from private registry
+
+  <p align="center">
+  <img src="screenshots/pull-image-from-private.png" width="800">
+  </p>
 - Deployed application to cluster
-
-📸 *Screenshot: Kubernetes pulling image from private registry*
-
 ---
 
 ### 5️⃣ Deploy Microservices Application to Kubernetes
 
 - Created Kubernetes manifests for microservices architecture
-- Configured deployments and services
+
+  <p align="center">
+  <img src="screenshots/manifest-file.png" width="800">
+  </p>
 - Deployed application components into cluster
+
+  <p align="center">
+  <img src="screenshots/deployed-application.png" width="800">
+  </p>
 - Verified service communication between containers
 
-📸 *Screenshot: Microservices application running in Kubernetes*
-
+  <p align="center">
+  <img src="screenshots/online-boutique.png" width="800">
+  </p>
 ---
 
 ### 6️⃣ Create Reusable Helm Charts
