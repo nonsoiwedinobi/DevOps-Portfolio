@@ -55,9 +55,25 @@ The objective of these projects is to demonstrate:
 ### 1️⃣ Create EKS Cluster with Node Group
 
 - Configured IAM roles for EKS
+
+  <p align="center">
+  <img src="screenshots/eks-role.png" width="800">
+</p>
 - Created VPC and networking components
+
+<p align="center">
+  <img src="screenshots/vpc.png" width="800">
+</p>
 - Provisioned EKS cluster (control plane)
+
+<p align="center">
+  <img src="screenshots/eks-cluster.png" width="800">
+</p>
 - Created and attached worker node group
+
+<p align="center">
+  <img src="screenshots/worker-nodes.png" width="800">
+</p>
 - Enabled auto-scaling for worker nodes
 - Deployed a sample application
 
