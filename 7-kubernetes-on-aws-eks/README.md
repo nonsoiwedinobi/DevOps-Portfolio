@@ -82,11 +82,25 @@ The objective of these projects is to demonstrate:
 ### 2️⃣ Create EKS Cluster with Fargate
 
 - Configured Fargate IAM roles
+
+  <p align="center">
+  <img src="screenshots/fargate-role.png" width="800">
+</p>
 - Created Fargate profile
+
+<p align="center">
+  <img src="screenshots/fargate-profile.png" width="800">
+</p>
 - Deployed application using serverless compute
+
+<p align="center">
+  <img src="screenshots/fargate-deploy.png" width="800">
+</p>
 - Verified pods running without managing EC2 nodes
 
----
+<p align="center">
+  <img src="screenshots/fargate-pods.png" width="800">
+</p>
 
 ### 3️⃣ Create EKS Cluster Using eksctl
 
