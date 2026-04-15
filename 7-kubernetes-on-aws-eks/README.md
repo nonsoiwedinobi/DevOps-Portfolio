@@ -105,36 +105,10 @@ The objective of these projects is to demonstrate:
 ### 3️⃣ Create EKS Cluster Using eksctl
 
 - Used `eksctl` to simplify cluster provisioning
-- Reduced manual setup complexity
-- Created fully functional EKS cluster with minimal configuration
 
----
-
-### 4️⃣ CI/CD – Deploy to EKS from Jenkins Pipeline
-
-- Installed `kubectl` and AWS authentication tools on Jenkins
-- Configured kubeconfig for EKS cluster access
-- Added AWS credentials to Jenkins
-- Extended Jenkins pipeline to deploy applications to EKS
-
----
-
-### 5️⃣ CI/CD Pipeline with EKS and Docker Hub
-
-- Built and versioned Docker images in CI pipeline
-- Pushed images to Docker Hub
-- Deployed applications from Docker Hub to EKS
-- Automated full CI/CD workflow:
-  - Build → Push → Deploy → Version update
-
----
-
-### 6️⃣ CI/CD Pipeline with EKS and AWS ECR
-
-- Created private Docker repository in AWS ECR
-- Configured Jenkins to authenticate with ECR
-- Built and pushed images to ECR
-- Deployed applications from ECR to EKS
+  <p align="center">
+  <img src="screenshots/eksctl.png" width="800">
+</p>
 
 ---
 
